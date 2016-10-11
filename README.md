@@ -1,4 +1,4 @@
-# amazon-s3
+# Amazon S3 file upload using PHP 
 You can download most recent version of Amazon PHP SDK by running following composer command and also can find full step by step detail on following link 
     http://phpclicks.com/amazon-s3-file-upload-using-php/
 
